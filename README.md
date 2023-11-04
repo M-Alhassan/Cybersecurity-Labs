@@ -20,9 +20,9 @@ Welcome to the Cybersecurity Labs repository for the KFUPM Computer Club! This r
 
 To get started, follow the steps below:
 
-1. Clone the repository to your local machine:
+1. Clone this repository to your local machine:
 
-	```git clone https://github.com/your-username/cybersecurity-labs.git```
+	```git clone https://github.com/M-Alhassan/Cybersecurity-Labs.git```
 
 2. Navigate to the lab category you want to work on:
 
