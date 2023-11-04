@@ -7,6 +7,3 @@ What is the filename for the file with the ransomware public key that was used t
 
 ## Password
 btlo
-
-## Copyright
-Blue Team Labs Online

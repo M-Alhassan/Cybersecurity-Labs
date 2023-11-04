@@ -11,6 +11,3 @@ What is the URL of the official Twitter page of the javascript web miner?
 ## Password
 btlo
 
-
-## Copyright
-Blue Team Labs Online
