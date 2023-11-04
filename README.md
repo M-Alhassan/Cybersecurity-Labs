@@ -22,14 +22,14 @@ To get started, follow the steps below:
 
 1. Clone the repository to your local machine:
 
-```git clone https://github.com/your-username/cybersecurity-labs.git```
+	```git clone https://github.com/your-username/cybersecurity-labs.git```
 
 2. Navigate to the lab category you want to work on:
 
-```cd Cybersecurity-Labs/category-name/lab-name```
+	```cd Cybersecurity-Labs/category-name/lab-name```
 
 3. View the description in the README in docs folder and use the flag checker script to check if your solution is correct:
 
-```./flag_checker```
+	```./flag_checker```
 
 
